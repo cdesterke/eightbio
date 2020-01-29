@@ -1,6 +1,6 @@
 FROM ubuntu
 MAINTAINER CHRIS<christophe.desterke@inserm.fr>
-RUN apt-get update && apt-get upgrade -y
+RUN apt-get update -y
 RUN apt-get install -y git
 
 FROM python:3.7
