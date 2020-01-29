@@ -28,4 +28,6 @@
 ## the container image "eightbio:0.1.1" has a size of 1.68 GB
 
 ----------
-### FOURTH STEP: verified the presence of the image "eightbio:0.1.1" when the job is complete 
+### FIFTH STEP: RUN the image "eightbio:0.1.1" 
+# docker run -it eightbio:0.1.1 /bin/bash
+
