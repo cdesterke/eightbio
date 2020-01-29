@@ -20,3 +20,7 @@
 # docker build - < Dockerfile -t eightbio:0.1.1
 #### example under ubuntu docker organize the eightbio:0.1.1
 ![build](https://github.com/cdesterke/eightbio/blob/master/small.jpg)
+
+----------
+### FOURTH STEP: verified the presence of the image "eightbio:0.1.1" when the job is complete 
+# docker image ls
