@@ -46,6 +46,6 @@
 
 ----------
 ### UNINSTALL and CLEAN all your containers and images after usage
-# docker rm $(docker ps -a -q)
-# docker rmi $(docker images -q)
-### be careful it remove all your docker images from your machine
+#### docker rm $(docker ps -a -q)
+#### docker rmi $(docker images -q)
+### be careful it will remove all your docker containers and images from your machine !!!
