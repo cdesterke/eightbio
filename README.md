@@ -13,7 +13,7 @@ The Docker container will be able to build a system encompassing all these depen
 ![os](https://github.com/cdesterke/eightbio/blob/master/os.jpg)
 ----------
 ### First step: install DOCKER software one your operating system
-on MAC visit: https://docs.docker.com/docker-for-mac/
-on WINDOWS visit: https://docs.docker.com/docker-for-windows/
-on LINUX: command lines depending of your distribution
+#### on MAC visit: https://docs.docker.com/docker-for-mac/
+#### on WINDOWS visit: https://docs.docker.com/docker-for-windows/
+#### on LINUX: command lines depending of your distribution
 ----------
