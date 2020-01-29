@@ -15,6 +15,8 @@
 ![clone](https://github.com/cdesterke/eightbio/blob/master/clone.jpg)
 
 ----------
-### THIRD STEP: Built the docker with the command line in the eightbio clone directory
+### THIRD STEP: Build the docker with the command line in the eightbio clone directory
 
 # docker build - < Dockerfile -t eightbio:0.1.1
+#### example under ubuntu docker organize the eightbio:0.1.1
+![build](https://github.com/cdesterke/eightbio/blob/master/small.jpg)
