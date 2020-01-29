@@ -24,3 +24,8 @@
 ----------
 ### FOURTH STEP: verified the presence of the image "eightbio:0.1.1" when the job is complete 
 # docker image ls
+![image](https://github.com/cdesterke/eightbio/blob/master/image.jpg)
+## the container image "eightbio:0.1.1" has a size of 1.68 GB
+
+----------
+### FOURTH STEP: verified the presence of the image "eightbio:0.1.1" when the job is complete 
