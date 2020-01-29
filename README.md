@@ -36,3 +36,4 @@
 ### STEP 6: RUN the predictive software "eightbiointeractive.py" inside the docker
 # python3 eightbiointeractive.py
 ![interact](https://github.com/cdesterke/eightbio/blob/master/interact.jpg)
+## after interaction with "eightbiointeractive.py" software in order to input the parameters of the model concerning a new patient, the container will return you the positive probability for Ninety GL event  
