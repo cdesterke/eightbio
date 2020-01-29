@@ -1,7 +1,7 @@
 # eightbio
 Eightbio is a deeplearning model used to predict NinetyGL events
 ----------
-#### This predictive artificial intelligence model is based on a system /
+This predictive artificial intelligence model is based on a system 
 architecture which depends on several python language libraries and whose version
 compatibility must be respected to be executed.
 It is for these reasons that the Docker type container system was chosen to deploy this mathematical model.
