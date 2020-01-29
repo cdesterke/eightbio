@@ -42,4 +42,4 @@
 ### STEP 7: STOP the container by enter : exit
 
 ----------
-### requirements: quadricore processor with 8 GB of RAM and internet connection 
+### REQUIREMENTS: quadricore processor with 8 GB of RAM and internet connection 
