@@ -35,4 +35,4 @@
 ----------
 ### STEP 6: RUN the predictive software "eightbiointeractive.py" inside the docker
 # python3 eightbiointeractive.py
-
+![interact](https://github.com/cdesterke/eightbio/blob/master/interact.jpg)
