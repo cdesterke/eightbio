@@ -1,5 +1,5 @@
-# eightbio
-Eightbio is a deeplearning model used to predict NinetyGL events
+# EIGHTBIO
+## Eightbio is a deeplearning model used to predict NinetyGL events
 ----------
 This predictive artificial intelligence model is based on a system 
 architecture which depends on several python language libraries and whose version
@@ -11,3 +11,9 @@ such as: tensorflow version 2.0.0, scikit-learn version 0.21.2, keras version 2.
 The Docker container will be able to build a system encompassing all these dependencies of mathematical libraries.
 ----------
 ![os](https://github.com/cdesterke/eightbio/blob/master/os.jpg)
+----------
+### First step: install DOCKER software one your operating system
+on MAC visit: https://docs.docker.com/docker-for-mac/
+on WINDOWS visit: https://docs.docker.com/docker-for-windows/
+on LINUX: command lines depending of your distribution
+----------
