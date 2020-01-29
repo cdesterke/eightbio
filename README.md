@@ -5,32 +5,34 @@
 ----------
 ![os](https://github.com/cdesterke/eightbio/blob/master/os.jpg)
 ----------
-### FIRST STEP: install DOCKER software one your operating system
+### STEP 1: install DOCKER software one your operating system
 #### on MAC visit: https://docs.docker.com/docker-for-mac/
 #### on WINDOWS visit: https://docs.docker.com/docker-for-windows/
 #### on LINUX: command lines depending of your distribution
 
 ----------
-### SECOND STEP: clone the eightbio repository
+### STEP 2: clone the eightbio repository
 ![clone](https://github.com/cdesterke/eightbio/blob/master/clone.jpg)
 
 ----------
-### THIRD STEP: Build the docker with the command line in the eightbio clone directory
+### STEP 3: Build the docker with the command line in the eightbio clone directory
 
 # docker build - < Dockerfile -t eightbio:0.1.1
 #### example under ubuntu docker organize the eightbio:0.1.1
 ![build](https://github.com/cdesterke/eightbio/blob/master/small.jpg)
 
 ----------
-### FOURTH STEP: verified the presence of the image "eightbio:0.1.1" when the job is complete 
+### STEP 4: verified the presence of the image "eightbio:0.1.1" when the job is complete 
 # docker image ls
 ![image](https://github.com/cdesterke/eightbio/blob/master/image.jpg)
 ## the container image "eightbio:0.1.1" has a size of 1.68 GB
 
 ----------
-### FIFTH STEP: RUN the image "eightbio:0.1.1" 
+### STEP 5: RUN the image "eightbio:0.1.1" 
 # docker run -it eightbio:0.1.1 /bin/bash
 ![run](https://github.com/cdesterke/eightbio/blob/master/run.jpg)
 ## Prompt is inside the docker
 ----------
-### FIFTH STEP: RUN the image "eightbio:0.1.1"
+### STEP 6: RUN the predictive software "eightbiointeractive.py" inside the docker
+# python3 eightbiointeractive.py
+
