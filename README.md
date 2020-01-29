@@ -30,4 +30,7 @@
 ----------
 ### FIFTH STEP: RUN the image "eightbio:0.1.1" 
 # docker run -it eightbio:0.1.1 /bin/bash
-
+![run](https://github.com/cdesterke/eightbio/blob/master/run.jpg)
+## Prompt is inside the docker
+----------
+### FIFTH STEP: RUN the image "eightbio:0.1.1"
