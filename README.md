@@ -12,3 +12,4 @@
 
 ----------
 ### SECOND STEP: clone the eightbio repository
+![clone](https://github.com/cdesterke/eightbio/blob/master/clone.jpg)
