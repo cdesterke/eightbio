@@ -5,8 +5,10 @@
 ----------
 ![os](https://github.com/cdesterke/eightbio/blob/master/os.jpg)
 ----------
-### First step: install DOCKER software one your operating system
+### FIRST STEP: install DOCKER software one your operating system
 #### on MAC visit: https://docs.docker.com/docker-for-mac/
 #### on WINDOWS visit: https://docs.docker.com/docker-for-windows/
 #### on LINUX: command lines depending of your distribution
+
 ----------
+### SECOND STEP: clone the eightbio repository
