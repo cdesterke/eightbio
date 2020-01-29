@@ -13,3 +13,8 @@
 ----------
 ### SECOND STEP: clone the eightbio repository
 ![clone](https://github.com/cdesterke/eightbio/blob/master/clone.jpg)
+
+----------
+### SECOND STEP: Built the docker with the command line in the eightbio clone directory
+
+# docker build - < Dockerfile -t eightbio:0.1.1
