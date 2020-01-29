@@ -10,4 +10,4 @@ For the good functionality of the program, these libraries must be installed wit
 such as: tensorflow version 2.0.0, scikit-learn version 0.21.2, keras version 2.3.1 and numpy version 1.16.4.
 The Docker container will be able to build a system encompassing all these dependencies of mathematical libraries.
 ----------
-![os](https://github.com/cdesterke/eightbio/blob/master/os.png)
+![os](https://github.com/cdesterke/eightbio/blob/master/os.jpg)
