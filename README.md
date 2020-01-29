@@ -43,3 +43,9 @@
 
 ----------
 ### REQUIREMENTS: quadricore processor with 8 GB of RAM and internet connection 
+
+----------
+### UNINSTALL and CLEAN all your containers and images after usage
+# docker rm $(docker ps -a -q)
+# docker rmi $(docker images -q)
+### be careful it remove all your docker images from your machine
