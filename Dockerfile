@@ -11,4 +11,4 @@ RUN pip install --upgrade pip && \
 WORKDIR /home
 RUN git clone https://github.com/cdesterke/eightbio.git
 WORKDIR /home/eightbio
-RUN chmod 755 eightbiointeractive.py eightbio.h5
+
